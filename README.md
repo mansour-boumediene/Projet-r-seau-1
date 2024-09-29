@@ -11,3 +11,5 @@ Test de la connectivitée entre les PC et les PC portables
 Ajout d'un second réseau LAN -> LAN 2 avec une adresse ip différentes
 le réseau lan 2 est constituée d'une switch et d'un PC 
 Ajout et configuration d'un routeur pour relier les 2 réseau
+ajout dans le cli du routeur des interfaces réseau (adresse ip et subnet) des 2 réseau puis l'activer via la commande no shutdown
+renseigner dans le RIP du routeur la gateway des deux réseaux.
